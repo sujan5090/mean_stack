@@ -1,0 +1,27 @@
+{
+  "name": "mean_stack",
+  "version": "1.0.0",
+  "description": "mean stack",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sujan5090/mean_stack.git"
+  },
+  "keywords": [
+    "meaan",
+    "stack"
+  ],
+  "author": "sujan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sujan5090/mean_stack/issues"
+  },
+  "homepage": "https://github.com/sujan5090/mean_stack#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "mongoose": "^5.1.2"
+  }
+}
